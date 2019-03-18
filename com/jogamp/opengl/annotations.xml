@@ -1,0 +1,5 @@
+<root>
+    <item name='com.jogamp.opengl.GL2 void glTranslated(double, double, double)'>
+        <annotation name='java.lang.Deprecated'/>
+    </item>
+</root>
